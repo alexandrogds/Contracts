@@ -1,2 +1,2 @@
 # Lua
-Comprar uma nave espacial Orion da NASA e junto com o lançamento da NASA lançar outro StarShip com os astronautas da SpaceX.
+Comprar uma nave espacial Orion da NASA e junto com o lançamento da NASA lançar outro StarShip com os astronautas da SpaceX para ficarem permanentemente na lua.
