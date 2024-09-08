@@ -1,0 +1,32 @@
+
+ANTES
+velocidade            x dilatação do material
+dilatação do material x resistência do material
+
+ANTES
+RESULTANTE            x dilatação do material
+dilatação do material x resistência do material
+
+DEPOIS
+RESULTANTE            x resistência do material
+
+RESULTANTE = diferença de forças entre o ponto mais próximo do sentido do movimento e o ponto mais longe?
+
+O objeto se quebraria antes de se tornar pequeno o suficiente?
+ - Depende do tamanho do objeto
+
+ΔR = RESULTANTE
+ΔR = abs(R1 - R2)
+R1 = Resultante no ponto mais próximo do sentido de deslocamento
+R2 = Resultante no ponto de cálculo
+
+r  = Resistência do Material
+
+σ = F / A
+A = area transversal
+Quanto maior a área maior a força máxima
+
+σ = ΔR / A
+
+r1 = Limite de resistência do aço
+r1 = 400 megapascals (MPa)
